@@ -111,13 +111,13 @@ Smart city and infrastructure planning support
 
 👨‍👩‍👧‍👦 Team Members
 
-Aswini
+B Praveen Varma
 
-Suhitha
+Shaik Gafoor Gani
 
-Niteshwar reddy
+Tripurari Prajna Sai Moulika Devi
 
-Gowtham
+Sai Lokesh Ande
 
 📄 License
 
